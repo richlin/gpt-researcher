@@ -7,3 +7,4 @@ bs4
 tiktoken
 unstructured # Document loading
 chromadb # Vector storage
+faiss-cpu 
